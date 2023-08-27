@@ -1,0 +1,10 @@
+button {
+  background-color: blue;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+body {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
